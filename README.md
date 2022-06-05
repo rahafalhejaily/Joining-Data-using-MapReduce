@@ -1,6 +1,7 @@
 # Joining Data using MapReduce
 ### Assignment: Joining Data
 In this assignment, you are given a Python mapper and reducer to perform the Join Data.
+
 Part 1
 =======
 **Step 1** : Make the Python scripts for the mapper and reducer executable. Execute the following commands:
